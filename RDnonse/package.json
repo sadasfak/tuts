@@ -1,0 +1,19 @@
+{
+  "name": "rdnonse",
+  "version": "1.0.0",
+  "description": "this is myEportfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annoying-nonseNse22/MyEportfolio.git"
+  },
+  "author": "RDn0nse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annoying-nonseNse22/MyEportfolio/issues"
+  },
+  "homepage": "https://github.com/annoying-nonseNse22/MyEportfolio#readme"
+}
